@@ -211,7 +211,7 @@
         "isi": "Tidak berbeda dengan hizib lainnya seperti hizib nawawi, hizib sakron, dan yang semisalnya, hizib ini juga merupakan kumpulan doa atau dzikir yang memiliki khasiat tertentu. Namun hizib barqi ini berbeda dengan kebanyakan hizib pada umumnya. Jika biasanya bacaan hizib itu cukup panjang sehingga sulit dihafal, maka berbeda dengan hizib barqi. Hal ini karena hizib barqi hanya terdiri dari doa yang berbentuk dua nadzom (bait)\n\nNamun meskipun bacaannya pendek, hizib ini termasuk yang sangat sulit dan berat untuk diamalkan. Tidak semua orang mampu menguasai dan mengamalkan Hizib Barqi ini secara sempurna, karena Hizib Barqi ini diambil dari “kidung Jaljalut” yang tidak semua orang mendapatkan keutamaannya, karena sifatnya yang penuh dengan “sirr (rahasia)”.\n\nBahkan ada sebagian dari pengamal ilmu hikmah, yang menamakan Hizib Barqi ini sebagai Hizib Halilintar. Hal ini karena diambil dari asal kata Hizib ini “Barq”, yang berarti halilintar.\n\nAdapun pengarang dari hizib ini adalah seorang ulama bernama Syaikh Ahmad bin ‘Ali bin Yusuf Al-Buni. Beliau adalah seorang ahli shufi dan pakar ilmu asror (rahasia) Asma dan huruf bermadzhab imam Malik dari Negri Maghrib (Maroko). Beliau lahir di kota Bunah, sekarang masuk pada bagian negara al-Jazair Afrika. Beliau dilahirkan sekitar tahun 520 Hijriyah. Wafat di Mesir pada tahun 622 Hijriyah bertepatan 1225 Masehi. Beliau dikuburkan di al-Qarafah di samping kuburan Syekh Abdul Jalil at-Thahawiy."
       },
       {
-        "type": "judul",
+        "type": "subJud",
         "isi": "Khasiat Hizib Barqi"
       },
       {
@@ -219,35 +219,39 @@
         "isi": "Layaknya hizib pada umumnya, hizib ini pun memiliki banyak khasiat. Bahkan khasiat dari hizib ini pun bukan sembarang khasiat, melainkan khasiat yang betul-betul sangat besar. Diantara khasiat dari hizib barqi adalah:"
       },
       {
-        "type": "subJud",
-        "isi": "1. Sebagai Benteng Perlindungan Diri"
+        "type": "ul",
+        "nomor": "1.",
+        "isi": "Sebagai Benteng Perlindungan Diri"
       },
       {
         "type": "texJ",
         "isi": "Jika Anda saat ini sedang mengalami pertengkaran dan permusuhan yang sangat besar dengan lawan Anda, maka hizib ini sangat cocok untuk Anda dawamkan. Insya Allah serangan yang datang dari musuh Anda tersebut, baik serangan fisik maupun metafisik dapat tercounter dengan sendirinya oleh khasiat dari mengamalkan hizib ini."
       },
       {
-        "type": "subJud",
-        "isi": "2. Melumpuhkan Musuh"
+        "type": "ul",
+        "nomor": "2",
+        "isi": "Melumpuhkan Musuh"
       },
       {
         "type": "texJ",
         "isi": "Tidak hanya cukup dengan mengcounter serangan musuh Anda, hizib barqi juga dapat melakukan serangan balasan yang memberi efek sangat berbahaya kepada musuh Anda. Dengan atas kuasa Allah, insya Allah hizib ini dapat menjadikan lawan Anda menjadi lemah, gentar, dan bahkan menjadi buta, tuli, bisu, yang sifatnya sementara."
       },
       {
-        "type": "subJud",
-        "isi": "3. Menambah Kharisma"
+        "type": "ul",
+        "nomor": "3",
+        "isi": "Menambah Kharisma"
       },
       {
         "type": "texJ",
         "isi": "Apabila Anda kini adalah seorang pengusaha besar yang memiliki banyak bawahan, dosen yang memiliki banyak murid, dai yang memiliki banyak jamaah, pemimpin yang sedang mengatur rakyatnya, maka hizib ini sangat cocok untuk didawamkan dan diamalkan. Insya Allah ketika Anda istiqomah mengamalkan hizib barqi ini, charisma anda didepan orang semakin meningkat. Dan akhirnya anda akan semakin disegani dan dihargai baik oleh kawan dan lawan anda"
       },
       {
-        "type": "subJud",
-        "isi": "4. Menjadikan Tubuh Lebih Kebal"
+        "type": "ul",
+        "nomor": "4",
+        "isi": "Menjadikan Tubuh Lebih Kebal"
       },
       {
-        "type": "texJ",
+        "type": "judul",
         "isi": "Khasiat lainnya adalah Anda akan lebih kebal terhadap serangan dan sabetan yang datang menghampiri Anda. Anda insya Allah akan kebal dari sabetan benda tajam seperti pisau, golok, bedog, dan benda tajam lainnya. Namun, dalam pengamalannya harus disertai dengan niat yang baik. Selain itu, juga akan kebal terhadap berbagai serangan ilmu hitam, santet, guna-guna, teluh dan lain-lain"
       },
       {
@@ -255,27 +259,27 @@
         "isi": "Tata Cara Pengamalan"
       },
       {
-        "type": "subJud",
+        "type": "ul",
         "nomor": "1.",
         "isi": "Menjalankan puasa mutih selama 7 hari"
       },
       {
-        "type": "judul",
+        "type": "ul",
         "nomor": "2.",
         "isi": "Saat berbuka puasa tidak diperkenankan mengkonsumsi makanan yang bernyawa seperti daging hewan, ikan dan telur"
       },
       {
-        "type": "judul",
+        "type": "ul",
         "nomor": "3.",
         "isi": "Saat menjalankan tirakat puasa, hizib dibaca sebanyak 77 kali ketika maghrib dan 77 kali di waktu subuh"
       },
       {
-        "type": "judul",
+        "type": "ul",
         "nomor": "4.",
         "isi": "Setelah selesai tirakat, hizib hanya dibaca 3 kali saja sehabis sholat maghrib dan 3 kali usai shubuh"
       },
       {
-        "type": "judul",
+        "type": "ul",
         "nomor": "5.",
         "isi": "Kemudian dianjurkan sebelum membaca hizib ini untuk membaca terlebih dahulu surat Al-Fatihah yang ditujukan kepada Rasulullah SAW, kemudian Nabi Khidr, Wa Ilyas, malaikat Mukorrobin, Kutubul Aulia, Ruh Wali Songo, kedua orang tua, kaum muslimin dan Khadim, masing-masing satu kali"
       }
@@ -403,7 +407,7 @@
         "isi": "Tentang Hizib Nashr"
       },
       {
-        "type": "judul",
+        "type": "texJ",
         "isi": "Salah satu cara yang dapat dilakukan untuk melawan musuh adalah dengan membaca hizib. Hizib berisi doa-doa dan sejumlah ayat Alquran yang biasanya memiliki tata aturan dalam membacanya. Salah satu hizib yang banyak digunakan adalah Hizib Nashor.\n\nDalam buku Antologi NU: Sejarah, Istilah, Amaliah, Uswah tulisan Soeleiman Fadeli (2007), Hizib Nashor dipercaya sebagai sarana paling ampuh untuk mengobati orang gila, kemasukan jin, mengobati luka memar, dan untuk melindungi agar pembacanya tidak mempan ditebas senjata tajam dan tahan pukul. Sederhananya, hizib ini dapat mencegah bala dan menggetarkan hati musuh.\n\nHizib nashor disusun oleh Syeikh Abul Hasan Asy-Syadzili yang lahir di Maroko. Beliau jugalah yang mendirikan tarekat Syadziliyah yang banyak diikuti oleh umat Islam di banyak negara, termasuk Indonesia.\n\nPerlu diingat, jangan sampai wirid ini diniatkan untuk orang-orang yang tidak disukai karena alasan pribadi semata. Dalam buku The Secret of Santet tulisan A. Masruri, hizib tidak dimaksudkan untuk ‘merusak’ orang-orang yang dianggap musuh, melainkan berdoa kepada Allah SWT memohon keadilan-Nya.\n\nMelansir situs Nahdlatul Ulama, Syekh Ahmad bin Muhammad bin ‘Ibad al-Mahalli dalam kitab al-Mafakhir al-‘Aliyah fi al-Ma’atsir as-Syadziliyah menjelaskan jika wirid ini digunakan untuk menyerang orang yang sebenarnya tidak pantas untuk menerimanya, maka doa akan kembali pada si pembaca.\n\n“Sebagian orang arif menjelaskan bahwa Hizib Nashar berulangkali mujarab. Dengan perantara hizib ini, Allah menghancurkan kaum yang sewenang-wenang yang durhaka dan orang-orang zalim yang melampaui batas. Janganlah engkau memanfaatkan doa ini untuk menyerang orang yang tidak berhak secara syara’, maka doa seperti ini hanya bersifat menguntungkan diri sendiri dan akibatnya akan kembali pada engkau sendiri. Doa ini terkadang pula ditujukan atas musuh yang bersifat samar (Jin, Setan) yang mencegah dari jalan petunjuk dan merambah jalan yang berbeda dan menyeleweng dari ketentuan syara’. Maka seseorang dapat menertentukan pada mereka (musuh yang samar) saat berdoa dengan hizib ini dan tatkala mengucapkan kata al-A’da’ (musuh) yang terdapat dalam Hizib Nashar. Maka pahamilah keterangan penting ini”.\n\nCara membaca hizib ini adalah mengawalinya dengan mengucapkan “Hasbunallahu wa Ni’mal Wakil” sebanyak 450 kali, diikuti dengan bacaan Hizib Nashor. Umat Islam hendaknya membacanya secara khusyu dan rendah hati."
       }
     ]
@@ -497,7 +501,7 @@
         "isi": "Tentang Hizib Nashor"
       },
       {
-        "type": "judul",
+        "type": "texJ",
         "isi": "Hizib Nashor dikarang oleh Al-habib Abdullah bin Alwi a-Haddad. Beliau dilahirkan pada malam senin 5 Shafar 1044 H / 1624 M di Subair, di pinggiran kota Tarim, Hadramaut, Yaman. Pada tahun kelahirannya, terjadi beberapa peristiwa, yaitu Wafatnya Habib Husein bin Syekh Abu Bakar bin Salim dan Sayyid Yusuf bin Al-Fasi (Murid Syekh Abu Bakar bin Salim) dan terbunuhnya Sayyid Ba Jabhaban"
       },
       {
@@ -505,7 +509,7 @@
         "isi": "Khasiat Hizib Nashor"
       },
       {
-        "type": "judul",
+        "type": "texJ",
         "isi": "Hizib Nashor adalah wirid yang diamalkan untuk meminta keselamatan kepada Allah SWT dari serangan musuh. Musuh yang dimaksud bukanlah orang yang dibenci karena masalah pribadi.\n\nBacaan Nizib Nashor ini bermanfaat untuk menangkal musuh yang merasa dengki dengan pencapaian seseorang.\n\n“Hizib ini merupakan hizib yang masyhur dan terkenal keagungannya dengan menolong pembacanya untuk mengalahkan terhadap musuh, hingga musuh menjadi tak tersisa sama sekali. Hizib ini juga dinamakan dengan hizib al-qahr (penakluk) karena kerasnya efek penaklukkan hizib ini terhadap musuh”\n\nMembaca Hizib Nashor harus berhati-hati dan dengan niat mencari perlindungan.\n\nSebab bila musuh dinilai tidak pantas mendapatkannya maka doa akan kembali kepada si pembaca.\n\n“Sebagian orang arif menjelaskan bahwa Hizib Nashor berulangkali mujarab. Dengan perantara hizib ini, Allah menghancurkan kaum yang sewenang-wenang yang durhaka dan orang-orang zalim yang melampaui batas. Janganlah engkau memanfaatkan doa ini untuk menyerang orang yang tidak berhak secara syara’, maka doa seperti ini hanya bersifat menguntungkan diri sendiri dan akibatnya akan kembali pada engkau sendiri. Doa ini terkadang pula ditujukan atas musuh yang bersifat samar (Jin, Setan) yang mencegah dari jalan petunjuk dan merambah jalan yang berbeda dan menyeleweng dari ketentuan syara’. Maka seseorang dapat menertentukan pada mereka (musuh yang samar) saat berdoa dengan hizib ini dan tatkala mengucapkan kata al-A’da’ (musuh) yang terdapat dalam Hizib Nashor. Maka pahamilah keterangan penting ini”\n\nHizib berisi doa-doa dan ayat Al Quran yang memiliki aturan dan cara mengamalkan dalam membacanya."
       },
       {
@@ -513,17 +517,17 @@
         "isi": "Cara Mengamalkan"
       },
       {
-        "type": "judul",
+        "type": "ul",
         "nomor": "1.",
         "isi": "Dibaca saat pagi dan sore hari selayaknya wirid biasa. Saat pagi membaca zikir Hasbunallahu wa Nikmal Wakil sebanyak 450 kali terlebih dahulu, lalu membaca doa hizib sebanyak tiga atau satu kali.Urutan yang sama juga dilakukan pada sore hari"
       },
       {
-        "type": "judul",
+        "type": "ul",
         "nomor": "2.",
         "isi": "Dibaca setelah salat lima waktu untuk mendatangkan kewibawaan. Membaca zikir Hasbunallahu wa Nikmal Wakil sebanyak 450 kali lalu membaca hizib sebanyak tiga kali"
       },
       {
-        "type": "judul",
+        "type": "ul",
         "nomor": "3.",
         "isi": "Dibaca setelah melaksanakan salat Isya untuk meminta pertolongan dan perlindungan dari musuh. Pertama, berwudhu setelah salat Isya dan melaksanakan salat hajat dua rakaat. Selanjutnya, membaca zikir Hasbunallahu wa Nikmal Wakil sebanyak 450 kali. Lalu membaca doa hizib sebanyak tujuh kali dalam satu kali duduk"
       }
@@ -676,7 +680,7 @@
         "isi": "Tentang Hizib Nawawi"
       },
       {
-        "type": "judul",
+        "type": "texJ",
         "isi": "Sebagian dari hizib (kumpulan dzikir) yang cukup populer di kalangan masyarakat adalah Hizib Nawawi. Nama “Hizib Nawawi” dinisbatkan kepada sang penyusun hizib ini yang tak lain adalah salah satu wali quthb di zamannya, Syekh Abi Zakaria Yahya bin Syarafuddin an-Nawawi, atau yang biasa dikenal dengan Imam an-Nawawi.\n\nImam an-Nawawi merupakan pembesar ulama fiqih mazhab Syafi’i. Karyanya dalam bidang fiqih banyak menghiasi jendela khazanah keislaman, seperti kitab Minhaj ath-Thalibin, Raudhah ath-thalibin, dan al-Majmu’ ala Syarh al-Muhadzab. Beliau juga terkenal sebagai ulama yang pakar dalam bidang hadits. Dua karyanya dalam bidang hadits banyak diajarkan di berbagai lembaga pendidikan yang tersebar di berbagai penjuru dunia, termasuk di Indonesia. Dua karya itu adalah kitab al-Arba’in an-Nawawiyah dan Riyadh as-Shalihin.\n\nSedangkan dalam tema dzikir dan wirid, beliau mengarang kitab al-Adzkar an-Nawawiyah yang di dalamnya menyebutkan berbagai macam dzikir sekaligus sumber dalil pengambilannya.\n\nHizib Nawawi sejatinya merupakan himpunan dzikir-dzikir yang istiqamah diamalkan oleh Imam an-Nawawi setiap harinya. Lalu kumpulan dzikir tersebut dikumpulkan menjadi satu, hingga masyhur dikenal dengan nama Hizib Nawawi.\n\nHizib Nawawi ini merupakan bacaan istiqamah berbagai tarekat, salah satunya tarekat al-Qadiriyah al-‘Aliyah. Hizib ini dinilai dapat menjaga dan membentengi seorang salik (orang yang menggapai jalan Allah) dari keburukan nafsu, setan, dan tipu daya keduanya.   Faedah membaca Hizib Nawawi disebutkan dalam kitab al-Kunuz an-Nuraniyah:\n\n“Hizib ini termasuk hizib yang mujarab untuk menjaga dari sihir, tipuan mata (bagian dari sihir), dan keburukan setan dan jin. Hizib ini juga berfaedah untuk menghilangkan kesusahan, menolak tipu daya orang-orang yang zalim, menolak aniaya para penganiaya dan kedengkian para pendengki serta agar ternaungi dalam naungan dan perlindungan Allah. Sebagian fadhilah (keutamaan) yang lain, hizib ini akan menghiasi pembacanya dengan kemuliaan, cahaya, keagungan, dan keindahan” (Sayyid Mukhlif Yahya al-‘Ali al-Hudzaifi al-Husaini, al-Kunuz an-Nuraniyah, hal. 179-180)."
       },
       {
@@ -684,32 +688,32 @@
         "isi": "Cara membaca Hizib Nawawi ini, secara umum dapat diamalkan dengan lima cara:"
       },
       {
-        "type": "judul",
+        "type": "ul",
         "nomor": "1",
         "isi": "dibaca dua kali sehari, yakni di pagi hari setelah shalat subuh sampai waktu dhuha dan malam hari setelah waktu maghrib sampai masuk waktu isya’"
       },
       {
-        "type": "judul",
+        "type": "ul",
         "nomor": "2",
         "isi": "Kedua, dibaca tiga kali sehari, yakni seperti dua waktu di atas ditambah lagi pada saat masuk waktu sahur"
       },
       {
-        "type": "judul",
+        "type": "ul",
         "nomor": "3",
         "isi": "dibaca lima kali sehari, yakni setiap selesai melaksanakan shalat lima waktu"
       },
       {
-        "type": "judul",
+        "type": "ul",
         "nomor": "4",
         "isi": "dibaca tujuh kali sehari, yakni lima kali setiap selesai melaksanakan shalat lima waktu ditambah dengan setelah melaksanakan shalat dhuha dan menjelang tidur"
       },
       {
-        "type": "judul",
+        "type": "ul",
         "nomor": "5",
         "isi": "dibaca 14 kali, yakni dibaca tujuh kali saat pagi dan sore dan tujuh kali saat malam\n"
       },
       {
-        "type": "judul",
+        "type": "texJ",
         "isi": "Lima cara di atas dapat diamalkan sepenuhnya sesuai dengan kecenderungan dan kemantapan kita. Namun cara pengamalan yang paling utama adalah cara ketiga, yang berfaedah akan memberikan penjagaan dan keamanan pada pembacanya.\n\nSemoga dengan mengamalkan hizib ini, kita mendapatkan fadhilah dan keberkahan dari Imam an-Nawawi serta menjadikan kita semakin bersemangat dalam menjalankan ibadah kepada Allah Swt. Amin yaa Rabbal ‘Alamin."
       }
     ]
@@ -822,7 +826,7 @@
         "isi": "Tentang Hizib Wiqoyah"
       },
       {
-        "type": "judul",
+        "type": "texJ",
         "isi": "Hizib Wiqayah adalah karya dari Syeikh Muhyiddin Abu Abdullah Muhammad ibn Ali ibn Muhammad ibn Ahmad ibn Abdullah Hatimi at-Ta'i, atau biasa yang lebih dikenal dengan Ibnu Arabi.\n\nHizib Wiqayah ini banyak sekali diamalkan oleh para santri dan para penggemar ilmu hikmah, itu semua dikarenakan besar dan banyaknya manfaat yang terkandung didalam Hizib Wiqayah itu sendiri."
       },
       {
@@ -830,46 +834,46 @@
         "isi": "Manfaat Mengamalkan Hizib Wiqoyah"
       },
       {
-        "type": "judul",
+        "type": "texJ",
         "isi": "Berikut adalah beberapa manfaat yang akan anda peroleh dengan mengamalkan Hizib Wiqayah ini:"
       },
       {
-        "type": "judul",
+        "type": "ul",
         "nomor": "1.",
         "isi": "Sebagai benteng diri dari segala bentuk kejahatan lahir & batin"
       },
       {
-        "type": "judul",
+        "type": "ul",
         "nomor": "2.",
         "isi": "Sebagai pagar ghoib untuk rumah agar aman dari segala mara bahaya"
       },
       {
-        "type": "judul",
+        "type": "ul",
         "nomor": "3.",
         "isi": "Dapat memberikan keberkahan kepada suatu daerah, jika anda pengamal Hizib Wiqayah ini pada daerah tersebut"
       },
       {
-        "type": "judul",
+        "type": "ul",
         "nomor": "4.",
         "isi": "Dapat menghilangkan ketakutan dan akan menjadikan anda lebih berani & percaya diri"
       },
       {
-        "type": "judul",
+        "type": "ul",
         "nomor": "5.",
         "isi": "Dapat memunculkan aura pengasihan kepada pengamalnya"
       },
       {
-        "type": "judul",
+        "type": "ul",
         "nomor": "6.",
         "isi": "Akan menjadikan anda semakin dihormati dan dicintai oleh banyak orang"
       },
       {
-        "type": "judul",
+        "type": "ul",
         "nomor": "7.",
         "isi": "Mampu mendongkrak karir & bisnis anda lebih pesat lagi"
       },
       {
-        "type": "judul",
+        "type": "ul",
         "nomor": "8.",
         "isi": "Dan masih banyak lagi keutamaan-keutamaan lainnya"
       }
@@ -1148,7 +1152,7 @@
         "isi": "Tentang Ratib Attas"
       },
       {
-        "type": "judul",
+        "type": "texJ",
         "isi": "Habib Umar bin Abdurrahman al-Atthas menggubah ratib yang diberi nama \"Azizul Manalwa Fathu Babil Wishal\"yang terkenal juga dengan nama Ratibul Atthas. Ratib ini merupakan wirid yang banyak hal yang disukai bagi yang menyukai, terutama bagi yang mengalami kesulitan.\n\nHabib Umar al-Attas sendiri berwasiat, \"Rahasia dan hikmah telah kutitipkan di dalam Ratib itu.\"\n\nHabib Umar bin Abdurrahman al-Atthas wafat pada tengah malam malam Kamis tanggal 23 Rabi'ul Akhir 1072 H/ 1652 M di desa Nafhun. Jenazah beliau dimakamkan di desa Huraidzah pada kamis sore. Disebutkan oleh Syaikh Abdullah bin Syaikh Ali bin Abdullah Baras, “Ketika Syaikh Ali Baras wafat, Syaikh Muhammad bin Ahmad Bamasymusy mimpi bertemu dengan Syaikh Ali Baras dan ia bertanya kepadanya, 'Dimanakah engkau bertemu dengan Habib Umar?'Jawab Syaikh Ali Baras, \"Aku sempat berjabat tangan dengan Habib Umar di dekat arasy Allah SWT.\""
       },
       {
@@ -1156,7 +1160,7 @@
         "isi": "Manfaat Ratib Al-Attas"
       },
       {
-        "type": "judul",
+        "type": "texJ",
         "isi": "Salah satu manfaat Ratib Al Attas yang disebutkan secara eksplisit dalam kitab Al Qirthas Syarah Rattib Al Attas adalah bahwa bacan ini dapat membawa keberkahan dan kelapangan bagi setiap umat yang mengamalkannya.\n\nSayyid al-Imam ‘Isa bin Muhammad al-Habsyi berkata: \"Diriwayatkan dari Tuanku ‘Umar penyusun Ratib al-Attas perkataan yang cukup banyak tentang keutamaan Ratib ini. Pernah suatu ketika datang kepada Sayyid ‘Umar orang-orang yang berkeluh kesah tentang sengsara dan sulitnya mencari biaya hidup, lalu beliau memerintahkan pada mereka untuk membaca ratib ini dan membaca bacaan tauhid (Lâ ilâha illa Allâh) setelahnya. Mereka pun melakukan perintah itu, tak lama kemudian Allah memberikan kelapangan pada mereka lantaran keberkahan Ratib al-Attas.\"\n\nTidak hanya memiliki fadhilah bagi pribadi, Ratib Al Attas disebut-sebut dapat membawa keberuntungan bagi suatu perkampungan atau daerah. Ratib ini bisa menjaga penghuninya dari segala malapetaka yang menghampiri mereka.\n\n\"Telah sampai padaku riwayat dari Syekh ‘Ali bin ‘Abdillah Bara’as bahwa Roti ini ketika dibaca di perkampungan atau di sebuah daerah maka penghuni perkampungan atau daerah tersebut akan aman dari petaka dan Ratib ini menjaga mereka serta melindungi mereka dari petaka, layaknya dijaga 70 penunggang kuda, hal ini sudah tidak diragukan lagi\"."
       }
     ]
@@ -1499,71 +1503,77 @@
         "isi": "Tentang Ratib Haddad"
       },
       {
-        "type": "judul",
+        "type": "texJ",
         "isi": "Sejarah dari Ratibul Haddad ini berawal dari kekhawatiran masyarakat yang akan terpengaruh aliran sesat yang sedang menimpa Hadramaut saat itu. Maka untuk mengurangi kekhawatiran itu masyarakat Sowan kepada Al habib untuk meminta ijazah wirid untuk membentengi diri dari paham tersebut.\n\nTradisi Dzikir ini sering kali dijadikan amalan rutinan oleh masyarakat muslim, hingga menjadi budaya yang melekat di pesantren. Pembacaan Ratibul Haddad sangat bervariasi, ada yang setiap setelah Isya', setelah Maghrib, ataupun selepas subuh. Ada juga yang dibacanya setiap malam Jumat, setiap satu Minggu sekali, bahkan hanya rutin satu bulan sekali.\n\nRatibul Haddad memiliki keutamaan luar biasa bagi yang mengamalkannya. Diantaranya adalah sebagai benteng perlindungan diri, keluarga, rumah tempat tinggalnya, bahkan negaranya. Selain itu, mengamalkan Ratib ini juga mampu memudahkan rezeki kekayaan, hati yang tenang, dan terlindungi dari berbagai hewan buas, reptil dan sebagainya. Namun, tetaplah niat utamanya adalah untuk berdzikir kepada Allah SWT."
       },
       {
-        "type": "judul",
+        "type": "subJud",
         "isi": "Biografi Penulis"
       },
       {
-        "type": "judul",
+        "type": "texJ",
         "isi": "Nama lengkap beliau adalah Abdullah bin Alawi bin Muhammad bin Ali Al-Tarimi Al-Haddad Al-Husaini Al-Yamani. Beliau dilahirkan di Subair, sebuah perkampungan pinggiran Kota Tarim di Wadi Hadhramaut, selatan negeri Yaman pada hari Ahad tanggal 5 Safar 1044 Hijriyah bertepatan 30 Juli 1634.\n\nSilsilah nasab Abdullah Al-Haddad adalah Abdullah bin Alwi bin Muhammad bin Ahmad bin Abdullah bin Muhammad bin Alwi bin Ahmad bin Abu Bakar bin Ahmad bin Abu Bakar bin Ahmad bin Muhammad bin Abdullah bin Al-Faqih Ahmad bin Abdurrahman bin Alwi 'Ammil Faqih bin Sayyidina Al-Imam Muhammad Shahib Marbat bin Sayyidina Al-Imam Khali' Qosam dan terus bersambung nasabnya sampai Rasulullah Saw.\n\nWalaupun tunanetra sejak kecil, Habib Abdullah bin Alwi Al-Haddad gigih menuntut ilmu. Beliau berhasil menghafal Al-Qur'an dan menguasai berbagai ilmu agama ketika masih usia belia.\n\nHabib Abdullah Al-Haddad gemar beribadah dan riyadhah (tirakat). Hingga keluarganya sering tidak tega menyaksikan anaknya yang tunanetra ini melakukan berbagai ibadah dan riyadhah.\n\nMereka menasehati agar beliau berhenti menyiksa diri. Demi menjaga perasaan keluarganya, Abdullah Al-Haddad kecil pun mengurangi ibadah dan riyadhah yang sesungguhnya amat beliau gemari.\n\nKesuksesan beliau dalam usia dini, merupakan hasil dari mujahadah beliau dalam menuntut ilmu dan ketaatan beliau kepada para guru."
       },
       {
-        "type": "judul",
+        "type": "subJud",
         "isi": "Manfaat Mengamalkan Ratib Haddad"
       },
       {
-        "type": "judul",
+        "type": "texJ",
         "isi": "beberapa keutamaan Ratib Al Haddad yang dijelaskan oleh sebagian ulama salaf dalam kitab Wirdul Imam Al ‘Alamatud Dunya:"
       },
       {
-        "type": "subJud",
-        "isi": "1. Diberi Rezeki Melimpah"
+        "type": "ul",
+        "nomor": "1",
+        "isi": "Diberi Rezeki Melimpah"
       },
       {
-        "type": "judul",
+        "type": "texJ",
         "isi": "Salah satu keutamaan Ratib Al Haddad yang paling utama adalah diberi rezeki yang melimpah oleh Allah SWT.\n\nSebab, ini juga termasuk jenis zikir yang dapat meningkatkan kecintaan kepada Allah SWT."
       },
       {
-        "type": "subJud",
-        "isi": "2. Diberikan Umur Panjang"
+        "type": "ul",
+        "nomor": "2",
+        "isi": "Diberikan Umur Panjang"
       },
       {
-        "type": "judul",
+        "type": "texJ",
         "isi": "Keutamaan Ratib Al Haddad selanjutnya adalah diberikan umur panjang.\n\nUmur adalah waktu yang diberikan oleh Allah SWT kepada seluruh umat manusia selama hidup di dunia. Bagi umat Islam, harus mengisi seluruh hidupnya dengan beribadah.\n\nKhasiat membaca amalan ini salah satunya adalah diberikan umur panjang oleh Allah SWT, agar dapat memperbanyak berbuat kebaikan selama di dunia, yang pahalanya bisa dipetik di akhirat kelak."
       },
       {
-        "type": "subJud",
-        "isi": "4. Mendapatkan Husnul Khatimah"
+        "type": "ul",
+        "nomor": "4",
+        "isi": "Mendapatkan Husnul Khatimah"
       },
       {
-        "type": "judul",
+        "type": "texJ",
         "isi": "Keutamaan Ratib Al Haddad selanjutnya adalah mendapatkan husnul khatimah. Karena tidak ada seorangpun yang mengetahui kapan akhir hidupnya, selalu berbuat amal kebaikan diharapkan dapat mendatangkan pahala sekaligus mendapatkan husnul khatimah.\n\nSalah satu caranya adalah selalu berusaha berzikir, higga saat Allah SWT mencabut nyawanya, seseorang berada dalam keadaan sedang berzikir."
       },
       {
-        "type": "subJud",
-        "isi": "5. Dijaga oleh Allah SWT"
+        "type": "ul",
+        "nomor": "5",
+        "isi": "Dijaga oleh Allah SWT"
       },
       {
-        "type": "judul",
+        "type": "texJ",
         "isi": "Keutamaan Ratib Al Haddad selanjutnya adalah selalu dijaga oleh Allah SWT. Salah satu khasiat dari membaca Ratb Al Haddad adalah agar selalu mendapatkan penjagaan dari Allah SWT dari segala bencana, baik di darat, udara, maupun laut. Sehingga mendapatkan ketenangan hidup."
       },
       {
-        "type": "subJud",
-        "isi": "6. Hajatnya Dikabulkan"
+        "type": "ul",
+        "nomor": "6",
+        "isi": "Hajatnya Dikabulkan"
       },
       {
-        "type": "judul",
+        "type": "texJ",
         "isi": "Keutamaan Ratib Al Haddad selanjutnya adalah hajatnya akan dikabulkan. Membaca Ratib Al Haddad sangat dianjurkan bagi yang memiliki hajat atau keinginan."
       },
       {
-        "type": "subJud",
-        "isi": "7. Menyembuhkan Penyakit Hati"
+        "type": "ul",
+        "nomor": "7",
+        "isi": "Menyembuhkan Penyakit Hati"
       },
       {
-        "type": "judul",
+        "type": "texJ",
         "isi": "Keutamaan Ratib Al Haddad selanjutnya adalah bisa menyembuhkan penyakit hati. Jika dilakukan dengan istiqamah, insya Allah akan terbebas dari penyakit hati. Namun, sebaiknya niat utama membacanya adalah untuk mendekatkan diri kepada Allah SWT."
       }
     ]
@@ -1778,7 +1788,7 @@
         "isi": "Tentang Ratib Al-Idrus"
       },
       {
-        "type": "judul",
+        "type": "texJ",
         "isi": "Ratib Al-Aydrus ini adalah karangan Al Habib Abdullah bin Abu Bakar Alydrus Al-Akbar (lahir Tarim –Hadramaut-Yaman,10 Dzulhijah 811 – 865 H / 1391 – 1445 M ), beliau  adalah Imam para Wali dan orang-orang Shalih.\n\nRatib Al Aydrus adalah ratib yang masyhur dan terkenal di berbagai belahan dunia khususnya di negara kita Indonesia. Ratib Al aydrus disebut dangan kitab “Syamsu Sumus” hal ini dikarenakan keagungannya dan menjadi awal dari pada ratib-ratib yang lainnya seperti ratib al haddad dan ratib al athas.\n\nRatib Al Aydrus merupakan rangkaian dzikir / wirid yang secara tertib dan teratur secara komposisinya yang terdiri dari berbagai ayat-ayat Al qur`an dan kalimat-kalimat yang mu`tabar dari Rasulullah SAW."
       },
       {
@@ -1786,46 +1796,46 @@
         "isi": "Manfaat Mengamalkan Ratib Al-Idrus"
       },
       {
-        "type": "judul",
+        "type": "texJ",
         "isi": "Ratib Al Aydrus memiliki banyak sekali manfaat dan keutamaannya, diantaranya adalah sebagai berikut:\n"
       },
       {
-        "type": "judul",
+        "type": "ul",
         "nomor": "1.",
         "isi": "Memohon penguatan tauhid dan keimanan"
       },
       {
-        "type": "judul",
+        "type": "ul",
         "nomor": "2.",
         "isi": "Memudahkan rezeki bagi yang istiqomah membacanya"
       },
       {
-        "type": "judul",
+        "type": "ul",
         "nomor": "3.",
         "isi": "Allah akan mengabulkan segala hajatnya"
       },
       {
-        "type": "judul",
+        "type": "ul",
         "nomor": "4.",
         "isi": "Diberi ketenangan jiwa"
       },
       {
-        "type": "judul",
+        "type": "ul",
         "nomor": "5.",
         "isi": "Diberi kemudahan dalam menuntut ilmu"
       },
       {
-        "type": "judul",
+        "type": "ul",
         "nomor": "6.",
         "isi": "Mempercepat tersingkapnya ta`bir khusyu dan Mukasyafah"
       },
       {
-        "type": "judul",
+        "type": "ul",
         "nomor": "7.",
         "isi": "Meninggal dalam keadaan khusnul khotimah\n"
       },
       {
-        "type": "judul",
+        "type": "texJ",
         "isi": "Masih banyak fadilah dan khasiatnya bagi yang istiqomah mengamalkannya. Amalan Ratib ini adalah amalan Bani  Aulia dan Bani Alawy. Adapun waktu mengamalkan ratib ini bisa kapan saja dan tidak terikat oleh waktu. Semoga kita semua bias mengambil keberkahan dari membaca ratib Al aydrus ini."
       }
     ]
@@ -2118,7 +2128,7 @@
         "isi": "Tentang Wirid Lathif"
       },
       {
-        "type": "judul",
+        "type": "texJ",
         "isi": "Wirdul-Latif adalah satu dari susunan wirid dan zikir oleh Al-Imam Al-Habib Abdullah bin Alawi Al-Haddad. Selalunya ia dibaca berseorangan pada waktu pagi dan petang. Seperti karangannya yang lain, Imam Haddad menguatkan wirid ini dengan ayat-ayat Al-Quran dan hadis.\n\nDengan cara tulisannya yang senang difaham, pendek dan tepat, beliau menyusun ayat-ayat Al-Quran dan Hadis untuk berzikir kebesaran dan kelebihan Allah. Dinamakan Wirdul-Latif (wirid ringan) sebab senang dibaca dan senang dirasakan di hati kita. Juga sebab ia tidak begitu panjang seperti wirid yang besarnya, iaitu Wirdul-Kabir.\n\nKarangan dan bacaan Wirdul-Latif di sini ialah seperti yang dianjurkan oleh pengikut-pengikut, murid-murid dan muslimin di negeri Arab, Semenanjung Asia dan Afrika, dari keturunan Al-Haddad, Munsib-munsibnya di maqam Imam al Haddad di Al-Hawi, Tarim - Hadhramaut di negara Yaman.\n\nImam Alawi bin Ahmad bin Hassan Al-Haddad, anak kepada cucu beliau telah menyusunkan wirid ini dengan mengurangkan jumlah bacaan tasbih dan tahmeed. Perulangan tasbih dan tahmeed dikurangkan kepada tiga dan ditambah satu ayat untuk gantinya. Baginda mengikut arahan Allah seperti di Surah Al-Baqarah Ayat 286 : “Allah tidak memberati seseorang melainkan apa yang terdaya olehnya.”\n\nDiriwayatkan daripada Anas r.a. katanya: Rasulullah s.a.w telah masuk ke masjid dan baginda mendapati ada seutas tali yang direntangkan di antara dua tiang, lalu baginda bertanya: “Tali apakah ini?” Para Sahabat menjawab, “Tali itu digunakan oleh Zainab untuk sembahyang, apabila dia merasa malas atau keletihan dia akan berpegang pada tali tersebut.” Rasulullah s.a.w bersabda lagi, “Lepaskan ikatan tali tersebut, seseorang dari kamu hendaklah bersembahyang dengan keupayaan yang ada pada dirinya, apabila dia malas atau letih maka hendaklah dia berhenti.” Zainab adalah seorang yang kukuh imannya. Kemudian Rasulullah s.a.w. bertanya kepada Zainab r.a. jikalau ia mahu belajar satu zikir yang berpahala serupa dengan membaca bilangan zikir-zikir ini. Dan Baginda pun berkata, “tambahkan kalimah ‘seberapa banyak ciptaan Nya’ kepada setiap tasbih, taslim and tahmeed”.\n\nSudah tentulah lebih baik kalau kita ada masa dan tenaga untuk membaca wirid ini dengan sepenuhnya. Insya Allah Allah akan memberi kita taufiq dan hidayat dan merahmati Al-Habib kita serta memimpin kita ke jalan yang benar."
       }
     ]
@@ -2187,7 +2197,7 @@
         "isi": "Tentang Wirid Sakron"
       },
       {
-        "type": "judul",
+        "type": "texJ",
         "isi": "Wirid ini dinamai wirid sakran dan dikarang oleh Al Imam Al Habib Abu Bakar Assakran. Beliau digelari dengan As-Sakran (mabuk) , karena beliau mabuk dengan cintanya kepada Allah swt. beliau adalah seorang wali besar yang memiliki segudang karomah, ia adalah orang yang sholeh dan selalu taat pada perintah Allah SWT. nasab beliau bersambung langsung kepada Rasulullah SAW.\n\nSilsilah beliau adalah Sayyidinal Imam Abu Bakar As-Sakran bin Syeikh al Ghauts Abdurrahman As-Seggaf bin Muhammad Maula Dawilah bin Ali bin Alwi Al-Ghoyur bin Al-Imam Al-Faqih Al-Muqaddam Muhammad bin Ali bin Muhammad Shohib Mirbath bin Ali Khali’ Qasam bin Alwi bin Muhammad bin Alwi bin Ubaidillah bin Ahmad Al Muhajir bin Isa Ar-Rumi bin Muhammad An-Naqib bin Ali Al-‘Uraidhi bin Ja’far Ash-Shodiq bin Muhammad Al-Baqir bin Ali Zainal Abidin bin Husain bin Siti Fatimah Az-Zahro binti Muhammad SAW.\n\nIa wafat di tarim pada tahun 821 H, salah satu peninggalannya yang sampai kini selalu dibaca adalah wirid sakran. wirid sakran sendiri memiliki banyak sekali manfaat dan kegunaan yaitu untuk melindungi dan membentengi kita dari segala macam gangguan dan tipuan musuh musuh kita dari berbagai jenis makhluk baik jin maupun manusia. sehingga jenis gangguan jin seperti sihir dan lain sebagainya tidak akan mempan jika kita selalu membaca wirid sakran ini. wirid ini sangat ampuh dan selalu diamalkan oleh para salafunassoleh hingga sampai sekrang masih terus dibaca dimana mana."
       },
       {
@@ -2195,21 +2205,21 @@
         "isi": "Manfaat Wirid Sakron"
       },
       {
-        "type": "judul",
+        "type": "texJ",
         "isi": "Wirid Sakran memiliki banyak sekali manfaat. Berikut beberapa manfaat dan khasiatnya:\n"
       },
       {
-        "type": "judul",
+        "type": "ul",
         "nomor": "1.",
         "isi": "Melindungi kita dari berbagai macam gangguan dan kejahatan musuh"
       },
       {
-        "type": "judul",
+        "type": "ul",
         "nomor": "2.",
         "isi": "Melindungi kita dari berbagai jenis gangguan makhluk baik jin maupun manusia"
       },
       {
-        "type": "judul",
+        "type": "ul",
         "nomor": "3.",
         "isi": "Melindungi diri kita dan keluarga kita dari gangguan sihir, tenun, santet, dan kejahatan-kejahatan lainnya yang berbau ghaib"
       }
@@ -2263,7 +2273,7 @@
         "isi": "Tentang Hizib Khofi"
       },
       {
-        "type": "judul",
+        "type": "texJ",
         "isi": "Sebagaimana hizib pada umumnya, hizib khofi adalah kumpulan wirid-wirid yang telah disusun secara rapih dan terstruktur. Hizib khofi disusun oleh salah satu ulama yang sangat masyhur dalam bidang ilmu hakekat dan tirakat yaitu yaitu Al Imam Al-Wali Al-Ghauts Al-Qutub Asy-Syeikh Abil Hasan Ali atau yang lebih dikenal dengan nama Syeikh Abul Hasan Asy-Syadzili.\n\nBeliau adalah pendiri dari salah satu thariqah sufiyah terbesar di dunia, yaitu Thariqah Syadziliyah. Thariqah ini kini telah terbesar di berbagai negeri muslim seperti di Afrika Utara, Mesir, Kenya, dan Tanzania Tengah, Sri langka, Amerika Barat, Amerika Utara, dan tak terkecuali di Indonesia. Di Indonesia sendiri thariqah ini mulai masuk sejak abad 19 M.\n\nDalam kegiatannya, thariqah ini biasanya melantunkan berbagai hizib-hizib dan doa-doa yang sudah disusun oleh sang pendiri, termasuk hizib khofi. Hizib ini merupakan salah satu amalan yang sering diamalkan oleh para pengikut Thariqah Syadziliyah"
       },
       {
@@ -2271,31 +2281,34 @@
         "isi": "Khasiat Hizib Khofi"
       },
       {
-        "type": "judul",
+        "type": "texJ",
         "isi": "Sebagaimana hizib yang lain, hizib khofi juga memiliki banyak sekali khasiat dan manfaat. Diantara khasiat dari hizib yang juga kadang disebut hizib latif ini adalah:"
       },
       {
-        "type": "subJud",
+        "type": "ul",
+        "nomor": "1",
         "isi": "Meningkatkan Kharisma dan Wibawa"
       },
       {
-        "type": "judul",
+        "type": "texJ",
         "isi": "Bisa dikatakan, ini merupakan khasiat utama dari hizib khofi. Bagi siapapun yang mengamalkan hizib ini, Insya Allah akan mendapatkan charisma dan wibawa yang berkali-kali lipat. Karenanya bagi Anda yang merasa sering diremehkan, dikerdilkan, dan dikucilkan orang lain sangat cocok untuk mengamalkan hizib ini.\n\nSelain itu hizib ini pun sangat cocok diamalkan oleh Anda yang merupakan para guru, pengusaha dan penguasa. Karena nantinya para murid, bawahan, dan masyarakat Anda semakin lebih taat dan terikat kepada aturan yang anda buat. Selain itu Anda pun akan lebih disegani baik oleh kawan dan lawan."
       },
       {
-        "type": "subJud",
+        "type": "ul",
+        "nomor": "2",
         "isi": "Menambah Percaya Diri"
       },
       {
-        "type": "judul",
+        "type": "texJ",
         "isi": "Kemudian bagi Anda yang merasa kurang percaya diri dan minder dalam melakukan suatu aktivitas, maka hizib ini sangat cocok anda dawamkan. Hizib ini insya Allah dapat menghilangkan Anda dari rasa was-was, cemas, dan gelisah saat Anda sedang menjalankan aktivitas sehari-hari."
       },
       {
-        "type": "subJud",
+        "type": "ul",
+        "nomor": "3",
         "isi": "Menolak Bala"
       },
       {
-        "type": "judul",
+        "type": "texJ",
         "isi": "Berikutnya dengan mengamalkan hizib ini juga, insya Allah Anda dapat terhindar dari segala macam bala, musibah dan marabahaya yang mungkin akan menjumpai Anda dalam kehidupan. Meskipun nanti misalnya Anda tertimpa musibah, Insya Allah anda tidak akan mengalami musibah yang cukup parah"
       },
       {
@@ -2303,27 +2316,27 @@
         "isi": "Tata Cara Pengamalan"
       },
       {
-        "type": "judul",
+        "type": "ul",
         "nomor": "1.",
         "isi": "Terlebih dahulu Anda melakukan puasa selama 1 hari"
       },
       {
-        "type": "judul",
+        "type": "ul",
         "nomor": "2.",
         "isi": "Saat berpuasa, bacalah hizib khofi ini sebanyak 99x"
       },
       {
-        "type": "judul",
+        "type": "ul",
         "nomor": "3.",
         "isi": "Sebelum memulai membaca hizib khofi, bertawasullah terlebih dahulu kepada Nabi Muhammad SAW, Syaikh Abdul Qadir Jailani, dan Syakih Abu Al-Hasan Asy-Syadzali"
       },
       {
-        "type": "judul",
+        "type": "ul",
         "nomor": "4.",
         "isi": "Ketika waktu berbuka usahakan meminum air putih dahulu. Setelah itu langsung shalat maghrib. Setelah shalat, barulah makan apapun yang Anda inginkan"
       },
       {
-        "type": "judul",
+        "type": "ul",
         "nomor": "5.",
         "isi": "Setelah melakukan amalan pembuka yaitu puasa selama 1 hari, Anda bisa langsung membaca dan mengamalkan hizib khofi setiap harinya. Adapun waktunya dilakukan setiap bakda shubuh dan bakda maghrib"
       }
@@ -2784,8 +2797,9 @@
         "id": "Dengan menyebut Nama Allah Yang Maha Pengasih lagi Maha Penyayang"
       },
       {
-        "type": "arabic",
-        "ay": "قُلْ هُوَ اللّٰهُ اَحَدٌۚ * اَللّٰهُ الصَّمَدُۚ * لَمْ يَلِدْ وَلَمْ يُوْلَدْۙ * وَلَمْ يَكُنْ لَّهٗ كُفُوًا اَحَدٌ ࣖ (3)",
+        "type": "tasbih",
+        "jumlahBatas": 3,
+        "ay": "قُلْ هُوَ اللّٰهُ اَحَدٌۚ * اَللّٰهُ الصَّمَدُۚ * لَمْ يَلِدْ وَلَمْ يُوْلَدْۙ * وَلَمْ يَكُنْ لَّهٗ كُفُوًا اَحَدٌ ࣖ",
         "la": "Qul huwallāhu aḥad(un). Allāhuṣ-ṣamad(u). Lam yalid wa lam yūlad. Wa lam yakul lahū kufuwan aḥad(un). (3x)",
         "id": "Katakanlah (Nabi Muhammad), “Dialah Allah Yang Maha Esa. Allah tempat meminta segala sesuatu. Dia tidak beranak dan tidak pula diperanakkan. serta tidak ada sesuatu pun yang setara dengan-Nya.”"
       },
@@ -2797,8 +2811,8 @@
       },
       {
         "type": "arabic",
-        "ay": "قُلْ اَعُوْذُ بِرَبِّ الْفَلَقِۙ * مِنْ شَرِّ مَا خَلَقَۙ * وَمِنْ شَرِّ غَاسِقٍ اِذَا وَقَبَۙ * وَمِنْ شَرِّ النَّفّٰثٰتِ فِى الْعُقَدِۙ * وَمِنْ شَرِّ حَاسِدٍ اِذَا حَسَدَ ࣖ (1)",
-        "la": "Qul a‘ūżu birabbil-falaq(i). Min syarri mā khalaq(a). Wa min syarri gāsiqin iżā waqab(a). Wa min syarrin-naffāṡāti fil-‘uqad(i). Wa min syarri ḥāsidin iżā ḥasad(a). (1x)",
+        "ay": "قُلْ اَعُوْذُ بِرَبِّ الْفَلَقِۙ * مِنْ شَرِّ مَا خَلَقَۙ * وَمِنْ شَرِّ غَاسِقٍ اِذَا وَقَبَۙ * وَمِنْ شَرِّ النَّفّٰثٰتِ فِى الْعُقَدِۙ * وَمِنْ شَرِّ حَاسِدٍ اِذَا حَسَدَ ࣖ",
+        "la": "Qul a‘ūżu birabbil-falaq(i). Min syarri mā khalaq(a). Wa min syarri gāsiqin iżā waqab(a). Wa min syarrin-naffāṡāti fil-‘uqad(i). Wa min syarri ḥāsidin iżā ḥasad(a).",
         "id": "Katakanlah (Nabi Muhammad), “Aku berlindung kepada Tuhan yang (menjaga) fajar (subuh). dari kejahatan (makhluk yang) Dia ciptakan, dari kejahatan malam apabila telah gelap gulita, dari kejahatan perempuan-perempuan (penyihir) yang meniup pada buhul-buhul (talinya), dan dari kejahatan orang yang dengki apabila dia dengki.”"
       },
       {
